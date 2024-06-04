@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TANIKE
-- 👀 I’m interested in Robotics, AI, Embedded Systems
+- 👀 I’m interested in Robotics, AI and Embedded Systems
 - 🌱 I’m currently learning automation and control engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: hotanphi2003@gmail.com
